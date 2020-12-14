@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/infiniteslider/static/css/main.3ef8a123.chunk.css",
+    "main.css": "/infiniteslider/static/css/main.65ea57ac.chunk.css",
     "main.js": "/infiniteslider/static/js/main.38f33a24.chunk.js",
     "main.js.map": "/infiniteslider/static/js/main.38f33a24.chunk.js.map",
     "runtime-main.js": "/infiniteslider/static/js/runtime-main.351d17b8.js",
@@ -9,10 +9,10 @@
     "static/js/2.b27acacc.chunk.js": "/infiniteslider/static/js/2.b27acacc.chunk.js",
     "static/js/2.b27acacc.chunk.js.map": "/infiniteslider/static/js/2.b27acacc.chunk.js.map",
     "index.html": "/infiniteslider/index.html",
-    "precache-manifest.18302307e387b25231c289a4008d8390.js": "/infiniteslider/precache-manifest.18302307e387b25231c289a4008d8390.js",
+    "precache-manifest.b35d5ec44c08e0e91c87cea3bcf51a6f.js": "/infiniteslider/precache-manifest.b35d5ec44c08e0e91c87cea3bcf51a6f.js",
     "service-worker.js": "/infiniteslider/service-worker.js",
     "static/css/2.296cf239.chunk.css.map": "/infiniteslider/static/css/2.296cf239.chunk.css.map",
-    "static/css/main.3ef8a123.chunk.css.map": "/infiniteslider/static/css/main.3ef8a123.chunk.css.map",
+    "static/css/main.65ea57ac.chunk.css.map": "/infiniteslider/static/css/main.65ea57ac.chunk.css.map",
     "static/js/2.b27acacc.chunk.js.LICENSE.txt": "/infiniteslider/static/js/2.b27acacc.chunk.js.LICENSE.txt",
     "static/media/slick-theme.css": "/infiniteslider/static/media/slick.f97e3bbf.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.351d17b8.js",
     "static/css/2.296cf239.chunk.css",
     "static/js/2.b27acacc.chunk.js",
-    "static/css/main.3ef8a123.chunk.css",
+    "static/css/main.65ea57ac.chunk.css",
     "static/js/main.38f33a24.chunk.js"
   ]
 }
