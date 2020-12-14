@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3848e302551285a11f58cad6dd4c17d5",
+    "revision": "0be17eff9f5f4d80e2bd82188bf9f4db",
     "url": "/infiniteslider/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/infiniteslider/static/css/2.296cf239.chunk.css"
   },
   {
-    "revision": "228005331049fd71fc7b",
-    "url": "/infiniteslider/static/css/main.948c65c6.chunk.css"
+    "revision": "a6f46b91a3972626f975",
+    "url": "/infiniteslider/static/css/main.3ef8a123.chunk.css"
   },
   {
     "revision": "d5a782bc150e4d99cb36",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/infiniteslider/static/js/2.b27acacc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "228005331049fd71fc7b",
-    "url": "/infiniteslider/static/js/main.d86ef5a9.chunk.js"
+    "revision": "a6f46b91a3972626f975",
+    "url": "/infiniteslider/static/js/main.38f33a24.chunk.js"
   },
   {
     "revision": "51fad424b65d77857819",
