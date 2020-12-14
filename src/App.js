@@ -61,15 +61,7 @@ class App extends Component {
 					})}
 				</Slider>
 
-				<p>
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni minus
-					aspernatur dolor. Amet vitae fugiat debitis ullam placeat at est sed
-					illo quae, natus vel molestiae velit sequi porro aspernatur?Quia
-					aspernatur atque minus, laboriosam deserunt iusto magni odit
-					voluptatem vero quo sint mollitia. Labore unde quibusdam est explicabo
-					asperiores expedita cumque illum, quis tempora, facilis praesentium
-					dolores fugit odit.
-				</p>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
 			</div>
 		);
 	}
