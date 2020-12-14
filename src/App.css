@@ -18,7 +18,7 @@
 	align-items: center;
 	justify-content: center;
 	font-size: calc(10px + 2vmin);
-	color: white;
+	color: black;
 }
 
 .App-link {
@@ -50,6 +50,7 @@ body {
 	position: absolute;
 	top: 50%;
 	z-index: 1;
+	color: black;
 }
 
 .slides .slick-prev {
